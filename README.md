@@ -5,6 +5,20 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chriz-t&label=Profile%20views&color=0e75b6&style=flat" alt="chriz-t" />
 </p>
+---
+
+<h3 align="left">💻 My Core Skills</h3>
+
+- **Programming Languages:** Python, C, Java, R  
+- **Web Development:** HTML, CSS, JavaScript  
+- **Frameworks & Libraries:** Django, Bootstrap (basic), React (basic)  
+- **Databases:** MySQL, MongoDB  
+- **Tools & Platforms:** Git, GitHub, Linux, VS Code, Postman  
+- **Concepts:** Data Structures & Algorithms, OOP, RESTful APIs  
+- **Others:** Familiar with Machine Learning basics, Data Visualization (Python, R)
+
+---
+
 
 ---
 
