@@ -1,4 +1,8 @@
+<p align="center">
+  <img  src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" >
+</p>
 
+<br><br>
 <h1 align="center">Hi 👋, I'm Christy</h1>
 <h3 align="center">I just execute the code.</h3>
 
@@ -61,6 +65,7 @@
   </a>
 </p>
 
+![Chriz-t github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=Chriz-t)
 ---
 
 <h3 align="left">📫 Let’s Connect</h3>
